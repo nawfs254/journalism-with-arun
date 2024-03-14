@@ -1,3 +1,5 @@
+import PropTypes from 'prop-types'; // ES6
+
 const Testimonial = ({ review }) => {
     const {designation, name, image, review_auth, location } = review;
     return (
@@ -19,5 +21,9 @@ const Testimonial = ({ review }) => {
         </>
     );
 };
+
+Testimonial.propTypes = {
+    review : PropTypes.object,
+}
 
 export default Testimonial;
