@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "image": "https://picsum.photos/id/231/300/300",
+      "name": "John Doe",
+      "designation": "Senior Editor",
+      "review_auth": "Taking Mr. Arun's journalism masterclass was one of the best decisions I've made for my career. His insights and guidance have helped me become a more confident and skilled journalist. I highly recommend this course to anyone passionate about storytelling and reporting.",
+      "location": "New York, USA"
+    },
+    {
+      "id": 2,
+      "image": "https://picsum.photos/id/232/300/300",
+      "name": "Jane Smith",
+      "designation": "Freelance Journalist",
+      "review_auth": "I can't thank Mr. Arun enough for his mentorship during the masterclass. His expertise and encouragement have motivated me to pursue journalism with renewed passion. The course content is comprehensive, and the personalized feedback has been invaluable.",
+      "location": "London, UK"
+    },
+    {
+      "id": 3,
+      "image": "https://picsum.photos/id/233/300/300",
+      "name": "Alex Johnson",
+      "designation": "Student",
+      "review_auth": "As a student aspiring to enter the field of journalism, Mr. Arun's masterclass provided me with a solid foundation and practical skills that I know will serve me well in my future career. The course structure is well-paced, and Mr. Arun's expertise shines through in every lesson.",
+      "location": "Sydney, Australia"
+    },
+    {
+      "id": 4,
+      "image": "https://picsum.photos/id/234/300/300",
+      "name": "Emily Brown",
+      "designation": "Reporter",
+      "review_auth": "The journalism masterclass with Mr. Arun exceeded my expectations. His in-depth knowledge and real-world examples have broadened my perspective on the field of journalism. I feel more confident in my abilities as a reporter after completing this course.",
+      "location": "Toronto, Canada"
+    },
+    {
+      "id": 5,
+      "image": "https://picsum.photos/id/235/300/300",
+      "name": "Michael Wilson",
+      "designation": "Editor-in-Chief",
+      "review_auth": "Mr. Arun's masterclass is a must for anyone looking to excel in journalism. The course covers a wide range of topics, from storytelling techniques to digital media, and Mr. Arun's feedback was invaluable in helping me refine my skills.",
+      "location": "Berlin, Germany"
+    }
+  ]
